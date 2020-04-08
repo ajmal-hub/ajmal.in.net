@@ -1,2 +1,3 @@
-	name: Ajmal Kondotty, IT Consultant
-	markdown: kramdown
+name: Ajmal Kondotty, IT Consultant
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
